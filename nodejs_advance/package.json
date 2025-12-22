@@ -23,6 +23,7 @@
     "chokidar": "^3.6.0",
     "concat-map": "^0.0.1",
     "debug": "^4.4.3",
+    "dotenv": "^17.2.3",
     "fill-range": "^7.1.1",
     "glob-parent": "^5.1.2",
     "has-flag": "^3.0.0",
@@ -44,6 +45,5 @@
     "to-regex-range": "^5.0.1",
     "touch": "^3.1.1",
     "undefsafe": "^2.0.5"
-  },
-  "devDependencies": {}
+  }
 }
